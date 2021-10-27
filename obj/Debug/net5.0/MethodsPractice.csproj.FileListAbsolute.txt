@@ -1,0 +1,16 @@
+C:\Users\antho\repos\MethodsPractice\bin\Debug\net5.0\MethodsPractice.exe
+C:\Users\antho\repos\MethodsPractice\bin\Debug\net5.0\MethodsPractice.deps.json
+C:\Users\antho\repos\MethodsPractice\bin\Debug\net5.0\MethodsPractice.runtimeconfig.json
+C:\Users\antho\repos\MethodsPractice\bin\Debug\net5.0\MethodsPractice.runtimeconfig.dev.json
+C:\Users\antho\repos\MethodsPractice\bin\Debug\net5.0\MethodsPractice.dll
+C:\Users\antho\repos\MethodsPractice\bin\Debug\net5.0\ref\MethodsPractice.dll
+C:\Users\antho\repos\MethodsPractice\bin\Debug\net5.0\MethodsPractice.pdb
+C:\Users\antho\repos\MethodsPractice\obj\Debug\net5.0\MethodsPractice.csproj.AssemblyReference.cache
+C:\Users\antho\repos\MethodsPractice\obj\Debug\net5.0\MethodsPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\repos\MethodsPractice\obj\Debug\net5.0\MethodsPractice.AssemblyInfoInputs.cache
+C:\Users\antho\repos\MethodsPractice\obj\Debug\net5.0\MethodsPractice.AssemblyInfo.cs
+C:\Users\antho\repos\MethodsPractice\obj\Debug\net5.0\MethodsPractice.csproj.CoreCompileInputs.cache
+C:\Users\antho\repos\MethodsPractice\obj\Debug\net5.0\MethodsPractice.dll
+C:\Users\antho\repos\MethodsPractice\obj\Debug\net5.0\ref\MethodsPractice.dll
+C:\Users\antho\repos\MethodsPractice\obj\Debug\net5.0\MethodsPractice.pdb
+C:\Users\antho\repos\MethodsPractice\obj\Debug\net5.0\MethodsPractice.genruntimeconfig.cache
